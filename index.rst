@@ -3,14 +3,27 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-Welcome to Cluster Genesis User Guide's documentation!
+Welcome to Cluster Genesis User's Guide documentation!
 ======================================================
 
 .. toctree::
    :maxdepth: 2
    :caption: Contents:
-
-   OPCG_Users_Guide_v0.962
+   :numbered:
+   
+   OPCG_front_matter_v0.962
+   OPCG_intro_&_setup_v0.962
+   OPCG_config.yml_create_v0.962
+   OPCG_running_OPCG_v0.962
+   Appendix-A
+   Appendix-B
+   Appendix-C
+   Appendix-D
+   Appendix-E
+   Appendix-F
+   Appendix-G
+   Appendix-H
+   Appendix-I
 
 Indices and tables
 ==================
