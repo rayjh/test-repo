@@ -1,7 +1,7 @@
 .. Cluster Genesis User Guide documentation master file, created by
    sphinx-quickstart on Wed Jan 04 15:13:29 2017.
    You can adapt this file completely to your liking, but it should at least
-   contain the root `toctree` directive.
+   contain the root `toctree` directive. force for recommit
 
 Welcome to Cluster Genesis User's Guide documentation!
 ======================================================
