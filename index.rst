@@ -3,8 +3,8 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive. force for recommit
 
-Welcome to Cluster Genesis User's Guide documentation!
-======================================================
+Welcome to Cluster Genesis User's Guide documentation Jan27!
+============================================================
 
 .. toctree::
    :maxdepth: 2
