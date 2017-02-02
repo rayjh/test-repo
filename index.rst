@@ -26,6 +26,7 @@ Welcome to Cluster Genesis User's Guide documentation!
    :numbered:
    
    OPCG_front_matter
+   release_table
    OPCG_intro_setup
    OPCG_config.yml_create
    OPCG_running_OPCG
