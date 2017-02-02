@@ -21,7 +21,7 @@ Welcome to Cluster Genesis User's Guide documentation!
 
 
 .. toctree::
-   :maxdepth: 2
+   :maxdepth: 1
    :caption: Contents:
    :numbered:
    
