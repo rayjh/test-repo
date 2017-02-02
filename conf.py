@@ -84,7 +84,7 @@ todo_include_todos = False
 #
 on_rtd = os.environ.get('READTHEDOCS') == 'True'
 if on_rtd:
-    html_theme = 'default'
+    html_theme = 'nature'
 else:
     html_theme = 'alabaster'
 # html_theme = 'nature'
